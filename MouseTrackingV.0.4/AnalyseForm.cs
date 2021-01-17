@@ -82,7 +82,7 @@ namespace MouseTrackingV._0._4
             //print rectangles
             for (int i = 0; i < 32*16; i++)
             {
-                //formula za trenutnu poziciju
+                //get the current position
                 RectangleF rectangle = new RectangleF(currentWidthIndex * widthStep - widthStep,
                     currentHeightIndex * heightStep -heightStep, widthStep, heightStep);
                 if (currentWidthIndex == 32)
@@ -97,7 +97,7 @@ namespace MouseTrackingV._0._4
 
                 List<Point> pointsInRectangle = ListOfPoints.FindAll(p =>
                 {
-                    // ***
+                    
                     if (p.X >= currentWidthIndex * widthStep - widthStep && p.X <= currentWidthIndex * widthStep && p.Y >= currentHeightIndex * heightStep - heightStep && p.Y <= currentHeightIndex * heightStep)
                     {
                         return true;
