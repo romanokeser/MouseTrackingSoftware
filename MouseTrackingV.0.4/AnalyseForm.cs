@@ -56,7 +56,7 @@ namespace MouseTrackingV._0._4
 
                     listPoints.Add(p);
                 }
-                catch (Exception)   //ako je napravljen razmak ili prazan red u listi koordinata javlja gresku
+                catch (Exception)   //if there's a space betwen coordinates in txt files it will throw an error
                 {
                     MessageBox.Show("Error in reading a record file! Try other record.");
                 }
