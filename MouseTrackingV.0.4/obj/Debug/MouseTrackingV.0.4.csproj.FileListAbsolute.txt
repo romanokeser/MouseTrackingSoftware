@@ -1,0 +1,51 @@
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe.config
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csprojAssemblyReference.cache
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Form1.resources
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Properties.Resources.resources
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.GenerateResource.cache
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Form2.resources
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Form3.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csprojAssemblyReference.cache
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Properties.Resources.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.GenerateResource.cache
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe.config
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MainForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.RecordForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MyRecordsForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.AnalyseForm.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe.config
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.pdb
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csprojAssemblyReference.cache
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.AnalyseForm.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MainForm.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.RecordForm.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MyRecordsForm.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Properties.Resources.resources
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.GenerateResource.cache
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.CoreCompileInputs.cache
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.exe
+C:\Users\Borna Hrastovec\Desktop\Development\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe.config
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\bin\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csprojAssemblyReference.cache
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.AnalyseForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MainForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.RecordForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.MyRecordsForm.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.Properties.Resources.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.GenerateResource.cache
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.exe
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.pdb
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV._0._4.checkBox.resources
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\bin\Debug\Guna.UI2.dll
+D:\Faks\3. GODINA\PIIS\Mouse Tracking v0.4\MouseTrackingV.0.4\Borna 28.12.2020\PIIS\MouseTrackingV.0.4\obj\Debug\MouseTrackingV.0.4.csproj.CopyComplete
